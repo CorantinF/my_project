@@ -1,0 +1,13 @@
+Notice du puissance 4:
+
+Pour gagner une partie de puissance 4, il suffit d'être le premier à aligner 4 jetons de sa couleur horizontalement, verticalement et diagonalement. Si lors d'une partie, tous les jetons sont joués sans qu'il y est d'alignement de jetons, la partie est déclaré nulle.
+Tout d'abbord ouvrir sur thonny connect4.py,render_connect4.py et print_connect4.py.
+Une fois ouvert rendez-vous sur render_connect4.py en cliquant sur l'onglet.
+La page est ouverte appuyez sur votre bouton F5 pour jouer.
+pensez a mettre la page thonny en petit écran.
+Tout en bas dans le shell un dialogue c'est affiché, Il vous demande si vous voulez jouer au puissance 4 ou au puissance 5(le puissance 5 est jouable qu'entre joueur).
+Si vous avez choisi le puissance 4 il vous demande à combien de joueur vous voulez joue.
+Saisissez 1 pour jouer contre un robot ou 2 pour jouer contre un autre jouer a coté de vous pour le puissnace 4.
+Pour jouer il suffit d'ecrire dans le shell la colonne ou vous voulez jouer c'est a dire entre 0 et 6 pour le puissance 4 ou 0 et 9 pour le puissance 5.
+La partie s'arretera lorsqu'un joueur aura gagné ou si la grille est remplie.
+Pour quitter le jeu et rejouer il suffit de cliquer sur le bouton stop ou de faire simultanément Ctrl+F2.
