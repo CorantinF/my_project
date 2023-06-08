@@ -1,0 +1,9 @@
+Ajgoun Azzedine , Francois Corantin
+
+cd /Minesweeper/src
+python graphical_main.py X X X
+python console_main.py X X X
+
+Nous n'avons pas réussi à términer console_main,
+car nous n'avons pas compris comment faire une récursivité avec un main 
+et nous n'avons pas compris comment récupérer x, y et C , oon a donc simplement fait un input()
